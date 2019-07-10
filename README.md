@@ -1,0 +1,2 @@
+# -STM32F205RBT6_broad_ice
+ STM32F205RBT6開發版
