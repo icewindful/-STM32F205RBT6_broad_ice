@@ -99,7 +99,7 @@ static void GetPointerData(uint8_t *pbuf)
 #endif
 {
   int8_t  x = 0, y = 0 ;
-	int8_t  key = 0x00;
+	int8_t  key = 0x08;
    
   switch(BSP_JOY_GetState())
   {
